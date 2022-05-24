@@ -364,15 +364,15 @@ Date Created:
 
         private void vchat_Click(object sender, EventArgs e)
         {
-            Form2 f2 = new Form2();
-            f2.Show();
+            Form1 f = new Form1();
+            f.Show();
            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form1 f = new Form1();
-            f.Show();
+            Form2 f2 = new Form2();
+            f2.Show();
 
         }
 
