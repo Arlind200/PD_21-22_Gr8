@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4NL6tDkHjPTwyzzQsfArRWOrSXfChXwalb1SxxS+WOhzwADBcKsQUDjrBa8UU0BKL+FVPpGZXTdiJHi/DfbEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\DetyraSemestrale\\TCPchat\\TCPServer(Message)\\TCPServer(Message).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\supersimpletcp\\2.4.0\\supersimpletcp.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
